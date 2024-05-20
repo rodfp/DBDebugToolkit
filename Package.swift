@@ -12,7 +12,6 @@ let package = Package(
     targets: [
         .target(
             name: "DBDebugToolkit",
-            path: "DBDebugToolkit",
-            publicHeadersPath: "Headers"),
+            path: "DBDebugToolkit"),
     ]
 )
